@@ -17,6 +17,9 @@ Este proyecto recoge pequeños scripts prácticos que simulan sensores industria
 - `multi_sensor_logger.py`  
   Simulación de múltiples sensores (temperatura y presión) con registro de datos de proceso.
 
+  - `multi_sensor_plot.py`  
+  Lectura del CSV de múltiples sensores y visualización gráfica con **doble eje**: temperatura y presión.
+
 ## Cómo ejecutar
 Ejecutar cualquiera de los scripts desde terminal:
 
