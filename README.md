@@ -12,6 +12,9 @@ Este proyecto recoge pequeños scripts prácticos que simulan sensores industria
 - `sensor_logger.py`  
   Simulación de un sensor de temperatura con registro de datos en un archivo CSV generado automáticamente.
 
+- `plot_temperature.py`  
+  Lectura del CSV y visualización gráfica de los datos de temperatura.
+
 ## Cómo ejecutar
 Ejecutar cualquiera de los scripts desde terminal:
 
