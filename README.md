@@ -3,7 +3,7 @@
 
 Proyecto básico en Python orientado a automatización industrial.
 
- Descripción
+
 Simulación sencilla de un sensor de temperatura industrial que genera valores aleatorios cada segundo.
 
  Tecnologías
