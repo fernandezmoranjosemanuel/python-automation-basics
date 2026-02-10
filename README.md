@@ -20,6 +20,9 @@ Este proyecto recoge pequeños scripts prácticos que simulan sensores industria
 - `multi_sensor_plot.py`  
   Lectura del CSV de múltiples sensores y visualización gráfica con **doble eje**: temperatura y presión.
 
+- `digital_io_simulation.py`  
+  Simulación de una entrada y una salida digital con lógica ON/OFF tipo PLC.
+
 ## Cómo ejecutar
 Ejecutar cualquiera de los scripts desde terminal:
 
