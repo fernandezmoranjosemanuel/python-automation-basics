@@ -34,6 +34,10 @@ Este proyecto recoge pequeños scripts prácticos que simulan sensores industria
 - `ctu_counter_simulation.py`  
   Simulación de un contador **CTU (count-up)** tipo PLC con detección de flanco y salida evaluada en cada ciclo.
 
+- `ctu_with_reset_simulation.py`  
+  Simulación de un contador **CTU (count-up) con reset** tipo PLC, con detección de flanco y salida evaluada cada ciclo.
+
+
 
 
 
