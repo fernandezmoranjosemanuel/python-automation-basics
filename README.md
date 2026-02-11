@@ -27,8 +27,15 @@ Este proyecto recoge pequeños scripts prácticos que simulan sensores industria
 - `TON_Timer.py`  
   Simulación de un **temporizador TON (retardo a la conexión)** típico de PLC.  
   La salida se activa automáticamente tras mantener la entrada activa durante 5 segundos.
+  
 - `TOF_Timer.py`  
   Simulación de un temporizador **TOF (off-delay)** tipo PLC: la salida permanece activa durante un tiempo tras desactivarse la entrada.
+
+- `ctu_counter_simulation.py`  
+  Simulación de un contador **CTU (count-up)** tipo PLC con detección de flanco y salida evaluada en cada ciclo.
+
+
+
 
 
 ## Cómo ejecutar
