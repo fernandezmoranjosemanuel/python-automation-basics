@@ -14,6 +14,7 @@ Este proyecto recoge pequeños scripts prácticos que simulan sensores industria
 
 - `plot_temperature.py`  
   Lectura del CSV y visualización gráfica de los datos de temperatura.
+
 - `multi_sensor_logger.py`  
   Simulación de múltiples sensores (temperatura y presión) con registro de datos de proceso.
 
@@ -23,12 +24,12 @@ Este proyecto recoge pequeños scripts prácticos que simulan sensores industria
 - `digital_io_simulation.py`  
   Simulación de una entrada y una salida digital con lógica ON/OFF tipo PLC.
 
+- `ton_timer.py`  
+  Simulación de un **temporizador TON (retardo a la conexión)** típico de PLC.  
+  La salida se activa automáticamente tras mantener la entrada activa durante 5 segundos.
+
 ## Cómo ejecutar
 Ejecutar cualquiera de los scripts desde terminal:
 
 ```bash
 python nombre_del_script.py
-
-
- Autor
-Jose Manuel Fernandez Moran.
